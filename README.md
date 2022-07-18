@@ -1,3 +1,3 @@
-# Qurno
+# Okiro
  ## Desktop
-![Gigaland-desktop-compressed](https://github.com/neda1998/Qurno/blob/main/img/Screenshot%202022-04-21%20at%2016-13-33%20project4.png)
+![Okiro-desktop-compressed](https://github.com/neda1998/Okiro/blob/main/image/Screenshot%202022-05-07%20at%2021-18-14%20NEOBLOG.png)
